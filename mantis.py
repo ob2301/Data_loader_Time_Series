@@ -1,4 +1,4 @@
-#MANTIS TSFM Wrapper for our toolkit
+#Mantis TSFM Wrapper for our toolkit
 
 from fmtk.components.base import BaseModel
 from mantis.architecture import Mantis8M
